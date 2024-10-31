@@ -10,7 +10,7 @@
 - [Limitations](#limitations)
 
 ### Project Overview
-In this project, we explored bike sales data for a company from their many subsidiaries across the globe. This dataset contains in-depth information about the customers who patronized from different countries. 
+In this project, we explored bike sales data for a company from their many subsidiaries across the globe. This dataset contains in-depth information about the customers who patronized from different countries. The aim thus is to display key data in an easy-to-read dashboard through meticulous data analysis for clear visualization.
 
 ### Data Sources
 Bike Sales Data: The primary data source for this data is the “BikeSales.csv” file, containing detailed information regarding how many bikes were sold.
